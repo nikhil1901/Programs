@@ -13,3 +13,7 @@ A string is Super ASCII, if all the characters in the string occur exactly as ma
 4. Longest_subsequence:
 The longest continuous sub-sequence of the sequence: 90 12 14 15 70 13 72 74 73 75 71 will be:
 70, 71, 72, 73, 74, 75 of length 5. Here, one more continuous sub-sequence, i.e. 12, 13, 14, 15 is present. But, it is not the longest one in the given sequence. The aim of the program is to display the longest sub-sequence alongwith its length.
+
+5. TheBestInternetBrowser:
+Solution to 'The best internet browser' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/
