@@ -17,3 +17,7 @@ The longest continuous sub-sequence of the sequence: 90 12 14 15 70 13 72 74 73 
 5. TheBestInternetBrowser:
 Solution to 'The best internet browser' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/
+
+6. KaranAndEvenNumbers1:
+Solution to 'Karan and Even Numbers' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/karan-and-even-numbers-1/
