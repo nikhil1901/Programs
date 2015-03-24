@@ -23,9 +23,13 @@ Solution to 'Karan and Even Numbers' problem on hackerearth.com. Here's the link
 https://www.hackerearth.com/problem/algorithm/karan-and-even-numbers-1/
 
 7. AreTheyTheSame:
-Solution to 'Karan and Even Numbers' problem on hackerearth.com. Here's the link:
+Solution to 'Are They the Same' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/golf/is-it-the-same-1/
 
 8. FizzBuzzTest:
-Solution to 'Karan and Even Numbers' problem on hackerearth.com. Here's the link:
+Solution to 'Fizz Buzz Test' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/fizzbuzz/
+
+8. CompleteString:
+Solution to 'Complete String' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/complete-string-4/
