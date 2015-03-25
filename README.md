@@ -37,3 +37,7 @@ https://www.hackerearth.com/problem/algorithm/complete-string-4/
 10. WhatIsTheStringMadeOf:
 Solution to 'What is the string made of' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/what-is-the-string-made-of-2/
+
+11. InLoveWithPrimes:
+Solution to 'In love with primes' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/in-love-with-primes/
