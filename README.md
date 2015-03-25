@@ -30,6 +30,10 @@ https://www.hackerearth.com/problem/golf/is-it-the-same-1/
 Solution to 'Fizz Buzz Test' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/fizzbuzz/
 
-8. CompleteString:
+9. CompleteString:
 Solution to 'Complete String' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/complete-string-4/
+
+10. WhatIsTheStringMadeOf:
+Solution to 'What is the string made of' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/what-is-the-string-made-of-2/
