@@ -15,7 +15,7 @@ The longest continuous sub-sequence of the sequence: 90 12 14 15 70 13 72 74 73 
 70, 71, 72, 73, 74, 75 of length 5. Here, one more continuous sub-sequence, i.e. 12, 13, 14, 15 is present. But, it is not the longest one in the given sequence. The aim of the program is to display the longest sub-sequence alongwith its length.
 
 5. TheBestInternetBrowser:
-Solution to 'The best internet browser' problem on hackerearth.com. Here's the link:
+Solution to 'The Best internet browser' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/the-best-internet-browser-3/
 
 6. KaranAndEvenNumbers1:
@@ -39,5 +39,5 @@ Solution to 'What is the string made of' problem on hackerearth.com. Here's the 
 https://www.hackerearth.com/problem/algorithm/what-is-the-string-made-of-2/
 
 11. InLoveWithPrimes:
-Solution to 'In love with primes' problem on hackerearth.com. Here's the link:
+Solution to 'In Love with Primes' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/in-love-with-primes/
