@@ -41,3 +41,7 @@ https://www.hackerearth.com/problem/algorithm/what-is-the-string-made-of-2/
 11. InLoveWithPrimes:
 Solution to 'In Love with Primes' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/in-love-with-primes/
+
+12. GottaCatchThemAll:
+Solution to 'Gotta catch 'em all' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/gotta-catch-em-all/
