@@ -45,3 +45,7 @@ https://www.hackerearth.com/problem/algorithm/in-love-with-primes/
 12. GottaCatchThemAll:
 Solution to 'Gotta catch 'em all' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/gotta-catch-em-all/
+
+13. SortedString:
+Solution to 'Sorted String' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/sorted-string/
