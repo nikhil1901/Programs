@@ -49,3 +49,7 @@ https://www.hackerearth.com/problem/algorithm/gotta-catch-em-all/
 13. SortedString:
 Solution to 'Sorted String' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/sorted-string/
+
+14. BeginnersTask4:
+Solution to 'Beginner's Task-4' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/beginners-task-4/
