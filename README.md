@@ -57,3 +57,7 @@ https://www.hackerearth.com/problem/algorithm/beginners-task-4/
 15. RoyAndProfilePicture:
 Solution to 'Roy and Profile Picture' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/roy-and-profile-picture/
+
+16. GirlfriendsDemands:
+Solution to 'Girlfriend's Demands' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/girlfriends-demands/
