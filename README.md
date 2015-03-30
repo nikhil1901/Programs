@@ -53,3 +53,7 @@ https://www.hackerearth.com/problem/algorithm/sorted-string/
 14. BeginnersTask4:
 Solution to 'Beginner's Task-4' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/beginners-task-4/
+
+15. RoyAndProfilePicture:
+Solution to 'Roy and Profile Picture' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/roy-and-profile-picture/
