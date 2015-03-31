@@ -65,3 +65,7 @@ https://www.hackerearth.com/problem/algorithm/girlfriends-demands/
 17. HellOfADay:
 Solution to 'Hell of a Day' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/day-5-recursion/
+
+18. FlowersArrangement:
+Solution to 'Flower's Arrangement' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/flowers-arrangement/
