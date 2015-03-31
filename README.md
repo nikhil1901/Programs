@@ -61,3 +61,7 @@ https://www.hackerearth.com/problem/algorithm/roy-and-profile-picture/
 16. GirlfriendsDemands:
 Solution to 'Girlfriend's Demands' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/girlfriends-demands/
+
+17. HellOfADay:
+Solution to 'Hell of a Day' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/day-5-recursion/
