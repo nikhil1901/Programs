@@ -69,3 +69,7 @@ https://www.hackerearth.com/problem/algorithm/day-5-recursion/
 18. FlowersArrangement:
 Solution to 'Flower's Arrangement' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/flowers-arrangement/
+
+19. JimsSelection:
+Solution to 'Jim's Selection' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/golf/jims-selection-2/
