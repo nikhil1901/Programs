@@ -73,3 +73,7 @@ https://www.hackerearth.com/problem/algorithm/flowers-arrangement/
 19. JimsSelection:
 Solution to 'Jim's Selection' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/golf/jims-selection-2/
+
+20. JimsSelection:
+Solution to 'Xenny and Uniqueness' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/golf/xenny-and-uniqueness/
