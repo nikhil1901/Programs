@@ -77,3 +77,7 @@ https://www.hackerearth.com/problem/golf/jims-selection-2/
 20. JimsSelection:
 Solution to 'Xenny and Uniqueness' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/golf/xenny-and-uniqueness/
+
+21. XennyAndExchange:
+Solution to 'Xenny and Exchange' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/golf/xenny-and-exchange/
