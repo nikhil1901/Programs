@@ -81,3 +81,7 @@ https://www.hackerearth.com/problem/golf/xenny-and-uniqueness/
 21. XennyAndExchange:
 Solution to 'Xenny and Exchange' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/golf/xenny-and-exchange/
+
+22. SumUpSeries:
+Solution to 'Sum Up Series' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/sum-up-series/
