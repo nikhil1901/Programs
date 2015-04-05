@@ -85,3 +85,7 @@ https://www.hackerearth.com/problem/golf/xenny-and-exchange/
 22. SumUpSeries:
 Solution to 'Sum Up Series' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/sum-up-series/
+
+23. MostFrequent:
+Solution to 'Most Frequent' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/golf/distinct-count-2/
