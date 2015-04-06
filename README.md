@@ -93,3 +93,7 @@ https://www.hackerearth.com/problem/golf/distinct-count-2/
 24. BattleOfWords:
 Solution to 'Battle of Words' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/battle-of-words/
+
+25. ClimbingDownstairs:
+Solution to 'Climbing Downstairs' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/climbing-downstairs-10/
