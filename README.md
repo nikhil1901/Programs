@@ -89,3 +89,7 @@ https://www.hackerearth.com/problem/algorithm/sum-up-series/
 23. MostFrequent:
 Solution to 'Most Frequent' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/golf/distinct-count-2/
+
+24. BattleOfWords:
+Solution to 'Battle of Words' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/battle-of-words/
