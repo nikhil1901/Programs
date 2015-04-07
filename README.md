@@ -97,3 +97,7 @@ https://www.hackerearth.com/problem/algorithm/battle-of-words/
 25. ClimbingDownstairs:
 Solution to 'Climbing Downstairs' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/climbing-downstairs-10/
+
+26. LittleDeepuAndArray:
+Solution to 'Little Deepu and Array' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/little-deepu-and-array/
