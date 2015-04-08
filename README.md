@@ -107,15 +107,15 @@ Solution to 'Game of Thrones' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/day-4-basic-mathematics/
 
 28. InvertTriangle:
-Given a triangle with N rows, with 1st row containing 1 coin, second two and so on till the Nth row contains N coins. Output the minimum number of coins to be shifted to invert the triangle.
-    *
-   * *
-  * * *
- * * * *
+Given a triangle with N rows, with 1st row containing 1 coin, second two and so on till the Nth row contains N coins. Output the minimum number of coins to be shifted to invert the triangle (' given for alignment.' is not part of the triangle)
+'    *
+'   * *
+'  * * *
+' * * * *
  E.g. for N=4, it would take minimum 3 coins to flip the triangle to make it look like:
 
- * * * *
-  * * *
-   * *
-    *
+' * * * *
+'  * * *
+'   * *
+'    *
 Therefore, for input 4, output is 3.
