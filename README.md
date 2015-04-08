@@ -108,3 +108,7 @@ https://www.hackerearth.com/problem/algorithm/day-4-basic-mathematics/
 
 28. InvertTriangle:
 Given a triangle with N rows, with 1st row containing 1 coin, second two and so on till the Nth row contains N coins. Output the minimum number of coins to be shifted to invert the triangle. 
+
+29. LazyVerma:
+Solution to 'Lazy Verma' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/lazy-verma-2/
