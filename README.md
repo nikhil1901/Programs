@@ -112,3 +112,7 @@ Given a triangle with N rows, with 1st row containing 1 coin, second two and so 
 29. LazyVerma:
 Solution to 'Lazy Verma' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/lazy-verma-2/
+
+30. StoryOfTwoFriends:
+Solution to 'Story of Two Friends' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/gcd-2/
