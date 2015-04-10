@@ -116,3 +116,7 @@ https://www.hackerearth.com/problem/algorithm/lazy-verma-2/
 30. StoryOfTwoFriends:
 Solution to 'Story of Two Friends' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/gcd-2/
+
+31. BabaiAndDiti:
+Solution to 'Babai and Diti' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/day-3-1-d-arrays/
