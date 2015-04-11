@@ -120,3 +120,7 @@ https://www.hackerearth.com/problem/algorithm/gcd-2/
 31. BabaiAndDiti:
 Solution to 'Babai and Diti' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/day-3-1-d-arrays/
+
+32. ProjectTeam:
+Solution to 'Project Team' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/project-team/description/
