@@ -128,3 +128,7 @@ https://www.hackerearth.com/problem/algorithm/project-team/description/
 33. IkshuMachineGun:
 Solution to 'Ikshu and his Machine Gun' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/ikshu-and-his-machine-gun/
+
+34. ChefAndRemissness:
+Solution to 'Chef and Remissness' problem on codechef.com. Here's the link:
+http://www.codechef.com/problems/REMISS
