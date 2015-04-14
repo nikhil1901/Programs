@@ -132,3 +132,7 @@ https://www.hackerearth.com/problem/algorithm/ikshu-and-his-machine-gun/
 34. ChefAndRemissness:
 Solution to 'Chef and Remissness' problem on codechef.com. Here's the link:
 http://www.codechef.com/problems/REMISS
+
+35. Stickers:
+Solution to 'Stickers' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/stickers/
