@@ -140,3 +140,7 @@ https://www.hackerearth.com/problem/algorithm/stickers/
 36. RestInPeace:
 Solution to 'Rest in Peace - 21-1!' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/
+
+37.SnapeAndLadder:
+Solution to 'Snape and Ladder' problem on codechef.com. Here's the link:
+http://www.codechef.com/problems/SNAPE
