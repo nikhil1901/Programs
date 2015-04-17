@@ -144,3 +144,7 @@ https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/
 37.SnapeAndLadder:
 Solution to 'Snape and Ladder' problem on codechef.com. Here's the link:
 http://www.codechef.com/problems/SNAPE
+
+38.GameOfSurvival:
+Solution to 'Fame of Survival' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/game-of-survival/
