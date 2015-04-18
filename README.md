@@ -149,6 +149,6 @@ http://www.codechef.com/problems/SNAPE
 Solution to 'Fame of Survival' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/game-of-survival/
 
-38.MehtaAndBeautifulQueries:
+39.MehtaAndBeautifulQueries:
 Solution to 'Mehta and Beautiful Quesries' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/mineral-farm/
