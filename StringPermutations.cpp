@@ -36,7 +36,7 @@ int main() {
 	    cin>>str;
 	    N=strlen(str);
 	    qsort(str,N,sizeof(char),compare);
-	    cout<<"str= "<<str<<endl;
+	    cout<<endl;
 	    permutation(str,0,N-1);
 	}
 	return 0;
