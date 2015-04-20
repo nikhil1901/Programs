@@ -155,3 +155,7 @@ https://www.hackerearth.com/problem/algorithm/mineral-farm/
 
 40.StringPermutations:
 1st line of input is T, the number of test case. T lines follow, each containing a string. Display all the permutations of the string in ascending order.
+
+41.MultipleSum:
+Solution to 'Multiple Sum' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/small-is-cute-1/
