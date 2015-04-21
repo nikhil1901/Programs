@@ -159,3 +159,7 @@ https://www.hackerearth.com/problem/algorithm/mineral-farm/
 41.MultipleSum:
 Solution to 'Multiple Sum' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/small-is-cute-1/
+
+42.RaghuVsSayan:
+Solution to 'Raghu Vs Sayan' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/raghu-vs-sayan/
