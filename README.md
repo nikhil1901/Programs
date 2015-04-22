@@ -163,3 +163,7 @@ https://www.hackerearth.com/problem/algorithm/small-is-cute-1/
 42.RaghuVsSayan:
 Solution to 'Raghu Vs Sayan' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/raghu-vs-sayan/
+
+43.ReversingANumber:
+Solution to 'Reversing a number' problem on hackerearth.com. Here's the link:
+https://www.hackerearth.com/problem/algorithm/reversing-a-number/
