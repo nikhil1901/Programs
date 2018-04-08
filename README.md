@@ -141,33 +141,33 @@ https://www.hackerearth.com/problem/algorithm/stickers/
 Solution to 'Rest in Peace - 21-1!' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/rest-in-peace-21-1/
 
-37.SnapeAndLadder:
+37. SnapeAndLadder:
 Solution to 'Snape and Ladder' problem on codechef.com. Here's the link:
 http://www.codechef.com/problems/SNAPE
 
-38.GameOfSurvival:
+38. GameOfSurvival:
 Solution to 'Fame of Survival' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/game-of-survival/
 
-39.MehtaAndBeautifulQueries:
+39. MehtaAndBeautifulQueries:
 Solution to 'Mehta and Beautiful Quesries' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/mineral-farm/
 
-40.StringPermutations:
+40. StringPermutations:
 1st line of input is T, the number of test case. T lines follow, each containing a string. Display all the permutations of the string in ascending order.
 
-41.MultipleSum:
+41. MultipleSum:
 Solution to 'Multiple Sum' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/small-is-cute-1/
 
-42.RaghuVsSayan:
+42. RaghuVsSayan:
 Solution to 'Raghu Vs Sayan' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/raghu-vs-sayan/
 
-43.ReversingANumber:
+43. ReversingANumber:
 Solution to 'Reversing a number' problem on hackerearth.com. Here's the link:
 https://www.hackerearth.com/problem/algorithm/reversing-a-number/
 
-44.leetcode-515:
+44. leetcode-515:
 Solution to 'Find Largest Value in Each Tree Row' problem on leetcode.com. Here's the link:
 https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
