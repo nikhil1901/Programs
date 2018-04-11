@@ -175,3 +175,7 @@ https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
 45. leetcode-647:
 Solution to 'Palindromic Substrings' problem on leetcode.com. Here's the link:
 https://leetcode.com/problems/palindromic-substrings/description/
+
+46. leetcode-362:
+Solution to 'Desig Hit Counter' problem on leetcode.com. Here's the link:
+https://leetcode.com/problems/design-hit-counter/description/
